@@ -41,3 +41,6 @@ print(models[['Model', 'cyl', 'gear']])
 
 #Prints to a CSV file or Excel file
 cars.to_csv('Denolo_Pandas-P2.py')
+```
+# Author
+Airsea Grace B. Denolo
